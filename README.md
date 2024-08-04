@@ -1,4 +1,6 @@
 # git-tut
-This is my first repository
+<p>This is my first repository</p>
 <br>
-Author - Adeen Momin
+<p>Author - Adeen Momin</p>
+<br>
+
